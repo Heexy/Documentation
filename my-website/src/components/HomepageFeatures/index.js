@@ -5,31 +5,59 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/undraw_note_list_re_r4u9.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+       Heexy, is Really simple search Engine, with minimalistic Design, is not Too hard for use.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: '100% Privacy',
+    Svg: require('@site/static/img/undraw_personal_settings_re_i6w4.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        We are dont Track you or selling your data to other Companys, We are make your Data Private, We are dont Need your Location or <code>IP Adress</code>
+        Stop use Other Engines with Trackers Use Heexy.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Working Without JavaScript',
+    Svg: require('@site/static/img/undraw_static_assets_rpm6.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Yeeah, Heexy working Without Javascript, you can use Heexy in TOR or some like this, Heexy is working very fast and without JavaScript!
+      </>
+    ),
+  },
+  {
+    title: '100% Privacy',
+    Svg: require('@site/static/img/undraw_personal_settings_re_i6w4.svg').default,
+    description: (
+      <>
+        We are dont Track you or selling your data to other Companys, We are make your Data Private, We are dont Need your Location or <code>IP Adress</code>
+        Stop use Other Engines with Trackers Use Heexy.
+      </>
+    ),
+  },
+    {
+    title: '100% Privacy',
+    Svg: require('@site/static/img/undraw_personal_settings_re_i6w4.svg').default,
+    description: (
+      <>
+        We are dont Track you or selling your data to other Companys, We are make your Data Private, We are dont Need your Location or <code>IP Adress</code>
+        Stop use Other Engines with Trackers Use Heexy.
+      </>
+    ),
+  },
+  {
+    title: '100% Privacy',
+    Svg: require('@site/static/img/undraw_personal_settings_re_i6w4.svg').default,
+    description: (
+      <>
+        We are dont Track you or selling your data to other Companys, We are make your Data Private, We are dont Need your Location or <code>IP Adress</code>
+        Stop use Other Engines with Trackers Use Heexy.
       </>
     ),
   },
